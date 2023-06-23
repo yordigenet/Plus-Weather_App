@@ -47,11 +47,10 @@ p {
     box-shadow: 10px #719ece;
   }
   .container{
-    max-width: 540px;
     width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
+    text-align: center;
+    margin: 0;
+    padding: 0;
   }
+
   
